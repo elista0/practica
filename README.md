@@ -8,3 +8,11 @@ practica6
 practica7
 practuica8
 practica9
+
+
+
+
+
+practica 10
+practica 11
+
